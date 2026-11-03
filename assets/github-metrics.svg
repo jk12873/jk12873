@@ -1,0 +1,114 @@
+<svg width="100%" height="200" viewBox="0 0 1000 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <!-- Language Bar Gradients -->
+    <linearGradient id="javaBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="tsBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="sqlBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="webBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #38bdf8; letter-spacing: 0.3px; }
+    .metric-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 500; fill: #94a3b8; }
+    .metric-val { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; fill: #f8fafc; }
+    .lang-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #e2e8f0; }
+    .lang-pct { font-family: ui-monospace, SFMono-Regular, monospace; font-size: 12px; font-weight: 600; fill: #94a3b8; }
+  </style>
+
+  <!-- ================= LEFT CARD: REPOSITORY & PROFILE OVERVIEW ================= -->
+  <g transform="translate(0, 0)">
+    <rect x="2" y="2" width="486" height="194" rx="12" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.2"/>
+    
+    <!-- Title -->
+    <text x="24" y="36" class="card-title">⚡ GitHub Engineering Overview</text>
+    
+    <!-- Metric Row 1 -->
+    <circle cx="30" cy="72" r="4" fill="#38bdf8" />
+    <text x="44" y="76" class="metric-label">Public Repositories</text>
+    <text x="460" y="76" text-anchor="end" class="metric-val">11 Repos</text>
+    
+    <!-- Metric Row 2 -->
+    <circle cx="30" cy="108" r="4" fill="#10b981" />
+    <text x="44" y="112" class="metric-label">Primary Specialization</text>
+    <text x="460" y="112" text-anchor="end" class="metric-val">Java &amp; Spring Boot</text>
+
+    <!-- Metric Row 3 -->
+    <circle cx="30" cy="144" r="4" fill="#f59e0b" />
+    <text x="44" y="148" class="metric-label">Architecture Focus</text>
+    <text x="460" y="148" text-anchor="end" class="metric-val">Microservices &amp; Kafka</text>
+
+    <!-- Metric Row 4 -->
+    <circle cx="30" cy="178" r="4" fill="#a855f7" />
+    <text x="44" y="181" class="metric-label">Enterprise Experience</text>
+    <text x="460" y="181" text-anchor="end" class="metric-val">Accenture AHSS (4+ Yrs)</text>
+  </g>
+
+  <!-- ================= RIGHT CARD: TOP LANGUAGES ================= -->
+  <g transform="translate(510, 0)">
+    <rect x="2" y="2" width="486" height="194" rx="12" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.2"/>
+    
+    <!-- Title -->
+    <text x="24" y="36" class="card-title">💻 Technical Stack Distribution</text>
+
+    <!-- Progress Bar (Stacked) -->
+    <g transform="translate(24, 52)">
+      <!-- Java 52% -->
+      <rect x="0" y="0" width="228" height="10" rx="5" fill="url(#javaBar)"/>
+      <!-- TypeScript / JS 24% -->
+      <rect x="232" y="0" width="105" height="10" rx="5" fill="url(#tsBar)"/>
+      <!-- SQL 14% -->
+      <rect x="341" y="0" width="60" height="10" rx="5" fill="url(#sqlBar)"/>
+      <!-- Web / CSS 10% -->
+      <rect x="405" y="0" width="35" height="10" rx="5" fill="url(#webBar)"/>
+    </g>
+
+    <!-- Legend Row 1 -->
+    <g transform="translate(24, 96)">
+      <circle cx="6" cy="6" r="5" fill="#f97316"/>
+      <text x="18" y="10" class="lang-name">Java</text>
+      <text x="180" y="10" text-anchor="end" class="lang-pct">52.0%</text>
+
+      <circle cx="240" cy="6" r="5" fill="#3b82f6"/>
+      <text x="252" y="10" class="lang-name">TypeScript / Angular</text>
+      <text x="440" y="10" text-anchor="end" class="lang-pct">24.0%</text>
+    </g>
+
+    <!-- Legend Row 2 -->
+    <g transform="translate(24, 138)">
+      <circle cx="6" cy="6" r="5" fill="#10b981"/>
+      <text x="18" y="10" class="lang-name">SQL (Oracle / MySQL)</text>
+      <text x="180" y="10" text-anchor="end" class="lang-pct">14.0%</text>
+
+      <circle cx="240" cy="6" r="5" fill="#a855f7"/>
+      <text x="252" y="10" class="lang-name">HTML5 / SCSS</text>
+      <text x="440" y="10" text-anchor="end" class="lang-pct">10.0%</text>
+    </g>
+
+    <!-- Verification Note -->
+    <text x="24" y="181" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#64748b">Verified Enterprise &amp; Open Source Breakdown</text>
+  </g>
+</svg>

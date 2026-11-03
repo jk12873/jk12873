@@ -231,9 +231,7 @@ I am a **Software Development Engineer** with **4+ years of experience** special
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jk12873&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a&count_private=true" height="175" alt="Jatin's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jk12873&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="175" alt="Top Languages" />
+  <img src="./assets/github-metrics.svg" width="100%" alt="Jatin's GitHub Engineering Metrics and Technical Distribution" />
 </p>
 
 <p align="center">
