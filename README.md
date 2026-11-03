@@ -1,41 +1,40 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Jatin Kumar - Software Development Engineer" />
+</p>
 
-  <!-- Header Banner / Title -->
-  <a href="https://linkedin.com/in/jk12873">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Jatin%20Kumar&fontSize=48&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Java%20%26%20Distributed%20Systems&descFontSize=20&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" alt="Jatin Kumar Banner"/>
+<!-- Quick Badges / Socials -->
+<p align="center">
+  <a href="https://linkedin.com/in/jk12873" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="mailto:itsjatin.dev@outlook.in">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&label=itsjatin.dev@outlook.in" alt="Outlook Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jk12873" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-4f46e5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
-  <!-- Quick Badges / Socials -->
-  <p align="center">
-    <a href="https://linkedin.com/in/jk12873">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:itsjatin.dev@outlook.in">
-      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&label=itsjatin.dev@outlook.in" alt="Outlook Email" />
-    </a>
-    <a href="https://github.com/jk12873">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  </p>
+<p align="center">
+  <em>"Architecting high-concurrency enterprise microservices and building intelligent, AI-augmented backend systems."</em>
+</p>
 
-  <!-- Tagline Quote -->
-  <p align="center">
-    <em>"Architecting high-concurrency enterprise microservices and building intelligent, AI-augmented backend systems."</em>
-  </p>
+<!-- Executive Impact Metric Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/EXPERIENCE-4%2B_Years-0284c7?style=for-the-badge&logo=codeforces&logoColor=white" alt="4+ Years Experience" />
+  <img src="https://img.shields.io/badge/CURRENT_ORG-Accenture-a855f7?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture" />
+  <img src="https://img.shields.io/badge/SCALE-Millions_Served-059669?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Millions Served" />
+  <img src="https://img.shields.io/badge/CONCURRENCY-%2B30%25_Throughput-ea580c?style=for-the-badge&logo=openjdk&logoColor=white" alt="+30% Concurrency" />
+  <img src="https://img.shields.io/badge/DB_LATENCY--25%25_Query_Time-e11d48?style=for-the-badge&logo=oracle&logoColor=white" alt="-25% Query Latency" />
+</p>
 
-  <!-- Executive Impact Metrics -->
-  <table align="center">
-    <tr>
-      <td align="center"><b>💼 Experience</b><br/><code>4+ Years</code></td>
-      <td align="center"><b>🏢 Current Org</b><br/><code>Accenture</code></td>
-      <td align="center"><b>👥 Scale Served</b><br/><code>Millions of Citizens</code></td>
-      <td align="center"><b>⚡ Performance Boost</b><br/><code>+30% Concurrency</code></td>
-      <td align="center"><b>🗄️ Query Tuning</b><br/><code>-25% Latency</code></td>
-    </tr>
-  </table>
-
-</div>
+| 💼 Experience | 🏢 Current Org | 👥 Scale Served | ⚡ Concurrency Boost | 🗄️ Query Latency |
+| :---: | :---: | :---: | :---: | :---: |
+| **4+ Years** | **Accenture** | **Millions of Citizens** | **+30% Throughput** | **-25% Execution Time** |
 
 ---
 
