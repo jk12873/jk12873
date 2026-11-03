@@ -230,22 +230,21 @@ I am a **Software Development Engineer** with **4+ years of experience** special
 
 ### 📊 GitHub Activity & Metrics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jk12873&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a&count_private=true" alt="Jatin's GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk12873&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jk12873&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a&count_private=true" height="175" alt="Jatin's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jk12873&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="175" alt="Top Languages" />
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/jk12873" alt="Jatin's Yearly Contributions" width="100%" />
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jk12873&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0f172a" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jk12873&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-11-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</p>
 
 ---
 
